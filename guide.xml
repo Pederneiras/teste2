@@ -1,0 +1,2522 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes FHD">
+    <display-name lang="pt">Premiere Clubes FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN FHD">
+    <display-name lang="pt">AXN FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN </display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180526000000 -0300" stop="20180526010000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x Corinthians</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526010000 -0300" stop="20180526020000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Vasco</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526020000 -0300" stop="20180526030000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Atlético PR</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526030000 -0300" stop="20180526040000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Botafogo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526040000 -0300" stop="20180526050000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526050000 -0300" stop="20180526060000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Bahia</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526060000 -0300" stop="20180526070000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Paraná x Grêmio</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526070000 -0300" stop="20180526080000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526080000 -0300" stop="20180526090000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Paraná x Grêmio</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526090000 -0300" stop="20180526100000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">América MG x Botafogo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526100000 -0300" stop="20180526110000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526110000 -0300" stop="20180526120000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Bahia</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526120000 -0300" stop="20180526130000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526130000 -0300" stop="20180526140000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Vasco</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526140000 -0300" stop="20180526150000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526150000 -0300" stop="20180526154000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">FLU TV</title>
+    <sub-title lang="pt">Ep. 103</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">E103</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526154000 -0300" stop="20180526160000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526160000 -0300" stop="20180526180000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Fluminense x Chapecoense</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526180000 -0300" stop="20180526183000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">FLU TV</title>
+    <sub-title lang="pt">Ep. 103</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">E103</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526183000 -0300" stop="20180526190000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526190000 -0300" stop="20180526200000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Bahia</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526200000 -0300" stop="20180526204000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526204000 -0300" stop="20180526210000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526210000 -0300" stop="20180526230000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Atlético MG x Flamengo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526230000 -0300" stop="20180527000000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Sport</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527000000 -0300" stop="20180527010000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Flamengo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527010000 -0300" stop="20180527020000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Chapecoense</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527020000 -0300" stop="20180527030000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Santos</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527030000 -0300" stop="20180527040000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Sport</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527040000 -0300" stop="20180527050000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Flamengo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527050000 -0300" stop="20180527060000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Chapecoense</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527060000 -0300" stop="20180527070000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Santos</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527070000 -0300" stop="20180527080000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Sport</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527080000 -0300" stop="20180527090000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Flamengo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527090000 -0300" stop="20180527094500 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527094500 -0300" stop="20180527103000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Tricolor da Vila</title>
+    <sub-title lang="pt">Ep. 03</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <episode-num system="onscreen">E3</episode-num>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527103000 -0300" stop="20180527110000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527110000 -0300" stop="20180527130000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Paraná x Atlético PR</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527130000 -0300" stop="20180527133000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Vozão TV</title>
+    <sub-title lang="pt">EP. 54</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527133000 -0300" stop="20180527143000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Giro da Rodada</title>
+    <desc lang="pt">Lucas Gutierrez traz ao vivo os melhores momentos do futebol nacional e internacional, além de cobertura ao vivo de treinos, coletivas, análises táticas dos principais times do país e reportagens especiais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527143000 -0300" stop="20180527150000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Camarote</title>
+    <sub-title lang="pt">Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527150000 -0300" stop="20180527160000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527160000 -0300" stop="20180527180000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Internacional x Corinthians</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527180000 -0300" stop="20180527184000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Vozão TV</title>
+    <sub-title lang="pt">EP. 54</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527184000 -0300" stop="20180527190000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Só aqui no seu canal campeão, você confere tudo que cerca o próximo evento que será exibido pelo SporTV, com os comentários e as reportagens dos melhores comentaristas esportivos da TV brasileira(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527190000 -0300" stop="20180527210000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">América MG x São Paulo</title>
+    <sub-title lang="pt">Vivo</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527210000 -0300" stop="20180527220000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Corinthians</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527220000 -0300" stop="20180527230000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Vasco</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527230000 -0300" stop="20180528000000 -0300" channel="Premiere Clubes FHD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ceará x Grêmio</sub-title>
+    <desc lang="pt">Sinopse não disponível(n)</desc>
+    <category lang="pt">Esporte</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526010000 -0300" stop="20180526020000 -0300" channel="AXN FHD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Steve McGarrett volta para casa, a ilha de Honolulu, para enterrar seu pai, que foi assassinado por um grande criminoso(n)</desc>
+    <credits>
+      <director>Len Wiseman</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526020000 -0300" stop="20180526030000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">O assassinato brutal de um ganhador da loteria deixa Castle e Beckett com os olhos bem abertos para vigiar os suspeitos, os vizinhos irritados e invejosos da súbita mudança de vida da vítima(n)</desc>
+    <credits>
+      <director>Emile Levisetti</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Seamus Dever</actor>
+      <actor>Wilmer Calderon</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526030000 -0300" stop="20180526040000 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Quando Marina Garito é encontrada morta, Stella fica convencida de que, ao contrário do aparente suicídio, ela foi assassinada(n)</desc>
+    <credits>
+      <director>null</director>
+      <actor>Anna Belknap</actor>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Mädchen Amick</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526040000 -0300" stop="20180526050000 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Hawkes é chamado para testemunhar uma execução e acaba descobrindo um segredo sobre sua família. Quando está prestes a sair da penitenciária, ele vira refém de um motim(n)</desc>
+    <credits>
+      <director>Steven DePaul</director>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Eddie Cahill</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526050000 -0300" stop="20180526060000 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Um rapaz de 14 anos chamado Nicky é baleado e roubado num beco, enquanto seu irmão mais novo, Sam, de 10 anos, testemunha tudo. Durante a investigação, Flack se aproxima bastante de Sam(n)</desc>
+    <credits>
+      <director>Marshall Adams</director>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Hill Harper</actor>
+      <actor>Mädchen Amick</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526060000 -0300" stop="20180526070000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526070000 -0300" stop="20180526080000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam o que parece ser um roubo seguido de homicídio, mas enquanto investigam o caso eles descobrem que a vítima estava envolvida em uma estranha conspiração(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526080000 -0300" stop="20180526090000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett devem trabalhar ao lado do Agente Fallon para impedir um evento trágico que pode afetar a cidade inteira(n)</desc>
+    <credits>
+      <director>Bill Roe</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+      <actor>Seamus Dever</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526090000 -0300" stop="20180526100000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">No episódio, um assassinato foi cometido no set de "Temptation Lane". Sarah Cutler, o escritor principal sobre a novela, foi morto com um machado de incêndio(n)</desc>
+    <credits>
+      <director>David Barrett</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Tina Majorino</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526100000 -0300" stop="20180526110000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Durante o julgamento de alto perfil de uma socialite assassinada, um jurado de repente, sai da caixa do júri: morto! Castle e Beckett descobrem que o jurado foi envenenado(n)</desc>
+    <credits>
+      <director>Jeff Bleckner</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Kwame Patterson</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526110000 -0300" stop="20180526115500 -0300" channel="AXN FHD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Quando um especialista em terrorismo virtual é sequestrado, McGarrett e sua equipe são designados para encontrá-lo e para proteger a segurança do país(n)</desc>
+    <credits>
+      <director>Brad Turner</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526115500 -0300" stop="20180526125000 -0300" channel="AXN FHD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU é chamada ao Texas para investigar um assassino serial que está vitimando estudantes em férias(n)</desc>
+    <credits>
+      <director>Jason Alexander</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Brian Borello</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526125000 -0300" stop="20180526134500 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526134500 -0300" stop="20180526144000 -0300" channel="AXN FHD">
+    <title lang="pt">Scorpion</title>
+    <desc lang="pt">A equipe Scorpion deve encontrar um menino da classe de Ralph que desaparece em uma viagem de campo depois de acidentalmente ter um desentendimento com um perigoso criminoso(n)</desc>
+    <credits>
+      <director>Steven A. Adelson</director>
+      <actor>Elyes Gabel</actor>
+      <actor>Katharine McPhee</actor>
+      <actor>Eddie Kaye Thomas</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526144000 -0300" stop="20180526153500 -0300" channel="AXN FHD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">NCIS é um seriado de ação dramático inspirado na famosa série JAG, sobre uma equipe de agentes especiais cuja missão é investigar qualquer crime que tem provas ligadas a pessoas da Marinha, sem levar em consideração cargos e posiç(n)</desc>
+    <credits>
+      <director>Leslie Libman</director>
+      <actor>Mark Harmon</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Emily Wickersham</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526153500 -0300" stop="20180526163000 -0300" channel="AXN FHD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Red e a força-terefa tomam medidas extremas para caçar um dos aliados de Alexander Kirk, Miles McGrath, um “incubador criminal” que financia crimes a fim de conseguir lucro(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Andrew Divoff</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Mozhan Marnò</actor>
+      <actor>Hisham Tawfiq</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526163000 -0300" stop="20180526172500 -0300" channel="AXN FHD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Quando um especialista em terrorismo virtual é sequestrado, McGarrett e sua equipe são designados para encontrá-lo e para proteger a segurança do país(n)</desc>
+    <credits>
+      <director>Brad Turner</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526172500 -0300" stop="20180526182000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526182000 -0300" stop="20180526191500 -0300" channel="AXN FHD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Depois do ataque terrorista, a equipe da NCIS fica chocada e tenta lidar com a repentina morte de Kate, cada um a seu modo(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Alan Dale</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526191500 -0300" stop="20180526201000 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">A equipe vai a um projeto habitacional em Brooklyn, N.Y., para investigar o assassinato de um empresário de sucesso(n)</desc>
+    <credits>
+      <director>Deran Sarafian</director>
+      <actor>Gary Sinise</actor>
+      <actor>Sela Ward</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Hill Harper</actor>
+      <actor>A.J. Buckley</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526201000 -0300" stop="20180526210500 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma moradora do subúrbio é espancada até a morte logo depois de celebrar seu 20º aniversário de casamento com uma festa em sua casa(n)</desc>
+    <credits>
+      <director>Gina Lamar</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Christina Chang</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Eddie Cibrian</actor>
+      <actor>Omar Benson Miller</actor>
+      <actor>Christian Clemenson</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526210500 -0300" stop="20180526220000 -0300" channel="AXN FHD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU é chamada ao Texas para investigar um assassino serial que está vitimando estudantes em férias(n)</desc>
+    <credits>
+      <director>Jason Alexander</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Brian Borello</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526220000 -0300" stop="20180527000000 -0300" channel="AXN FHD">
+    <title lang="pt">Colombiana</title>
+    <sub-title lang="pt">Em Busca de Vingança</sub-title>
+    <desc lang="pt">Cataleya se tornou uma assassina cruel após testemunhar a morte de seus pais quando criança em Bogotá. Ela trabalha como assassina de aluguel, mas em seu tempo livre fica atenta, procurando pelo mafioso que matou seus pais(n)</desc>
+    <credits>
+      <director>Olivier Megaton</director>
+      <actor>Jordi Molla</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Callum Blue</actor>
+      <actor>Jesse Borrego</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Michael Vartan</actor>
+      <actor>Lennie James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527000000 -0300" stop="20180527010000 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. Cyber</title>
+    <desc lang="pt">O time investiga a abdução de uma jovem, cujas páginas nas redes sociais continuam atualizadas. Enquanto isso, Ryan ajuda Trish McCarthy a lidar com a morte de sua irmã, que era uma antiga paciente de Ryan(n)</desc>
+    <credits>
+      <director>Eagle Egilsson</director>
+      <actor>Patricia Arquette</actor>
+      <actor>James Van Der Beek</actor>
+      <actor>Peter MacNicol</actor>
+      <actor>Hayley Kiyoko</actor>
+      <actor>Rosanna Arquette</actor>
+      <actor>Lisa Darr</actor>
+      <actor>Brett Rickaby</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527010000 -0300" stop="20180527020000 -0300" channel="AXN FHD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Quando um especialista em terrorismo virtual é sequestrado, McGarrett e sua equipe são designados para encontrá-lo e para proteger a segurança do país(n)</desc>
+    <credits>
+      <director>Brad Turner</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527020000 -0300" stop="20180527030000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527030000 -0300" stop="20180527040000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527040000 -0300" stop="20180527050000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam o que parece ser um roubo seguido de homicídio, mas enquanto investigam o caso eles descobrem que a vítima estava envolvida em uma estranha conspiração(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527050000 -0300" stop="20180527060000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett devem trabalhar ao lado do Agente Fallon para impedir um evento trágico que pode afetar a cidade inteira(n)</desc>
+    <credits>
+      <director>Bill Roe</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+      <actor>Seamus Dever</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527060000 -0300" stop="20180527070000 -0300" channel="AXN FHD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Quando o monarca Douglas Bank é roubado, Red aproveita a oportunidade para derrubar o banco que fazia lavagem de dinheiro(n)</desc>
+    <credits>
+      <director>Paul A. Edwards</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Amir Arison</actor>
+      <actor>Amir Arison</actor>
+      <actor>Harry Lennix</actor>
+      <actor>Raquel Almazan</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527070000 -0300" stop="20180527080000 -0300" channel="AXN FHD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Quando um corpo é encontrado sem um coração, Keen e Ressler unem forças com Samar Navabi para investigar a operação do Dr. Covington;(n)</desc>
+    <credits>
+      <director>Karen Gaviola</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Hisham Tawfiq</actor>
+      <actor>Harry Lennix</actor>
+      <actor>Ron C. Jones</actor>
+      <actor>Mozhan Marnò</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527080000 -0300" stop="20180527090000 -0300" channel="AXN FHD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Após cidadãos aparentemente não violentos se tornarem assassinos, Red sugere a Liz que um perigoso experimento social e psicológico pode estar acontecendo(n)</desc>
+    <credits>
+      <director>Michael W. Watkins</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Paul Reubens</actor>
+      <actor>Mary-Louise Parker</actor>
+      <actor>Harry Lennix</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527090000 -0300" stop="20180527100000 -0300" channel="AXN FHD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Os agentes Keen, Ressler e Cooper perseguem um grupo eco-terrorista em busca de uma arma destrutiva(n)</desc>
+    <credits>
+      <director>Steven A. Adelson</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Amir Arison</actor>
+      <actor>Harry Lennix</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527100000 -0300" stop="20180527110000 -0300" channel="AXN FHD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Um corpo mutilado é encontrado, o que leva Liz a consultar Red sobre o que ele sabe a respeito do mundo mortal dos caçadores de animais selvagens(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Hisham Tawfiq</actor>
+      <actor>Harry Lennix</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527110000 -0300" stop="20180527115500 -0300" channel="AXN FHD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">A equipe Five-0 descobre uma conexão entre as gangues samoanas e a máfia do continente depois que uma guerra entre gangues causa confusão durante um jogo de futebol(n)</desc>
+    <credits>
+      <director>Paul A. Edwards</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527115500 -0300" stop="20180527125000 -0300" channel="AXN FHD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Durante a investigação de uma série de raptos e assassinatos de crianças em Nova Jersey, a BAU conclui que o último crime pode não ser obra do suspeito por eles apreendido(n)</desc>
+    <credits>
+      <director>Karen Gaviola</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Paget Brewster</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Mark Arnold</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527125000 -0300" stop="20180527134500 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam o que parece ser um roubo seguido de homicídio, mas enquanto investigam o caso eles descobrem que a vítima estava envolvida em uma estranha conspiração(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527134500 -0300" stop="20180527144000 -0300" channel="AXN FHD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU é chamada para Oklahoma para investigar um palhaço assassino aterrorizando a pacata cidade de Guymon(n)</desc>
+    <credits>
+      <director>Matthew Gray Gubler</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Daniel Henney</actor>
+      <actor>Solomon Shiv</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527144000 -0300" stop="20180527153500 -0300" channel="AXN FHD">
+    <title lang="pt">C.S.I. Cyber</title>
+    <desc lang="pt">O time investiga a abdução de uma jovem, cujas páginas nas redes sociais continuam atualizadas. Enquanto isso, Ryan ajuda Trish McCarthy a lidar com a morte de sua irmã, que era uma antiga paciente de Ryan(n)</desc>
+    <credits>
+      <director>Eagle Egilsson</director>
+      <actor>Patricia Arquette</actor>
+      <actor>James Van Der Beek</actor>
+      <actor>Peter MacNicol</actor>
+      <actor>Hayley Kiyoko</actor>
+      <actor>Rosanna Arquette</actor>
+      <actor>Lisa Darr</actor>
+      <actor>Brett Rickaby</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+    <star-rating>
+      <value>4.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527153500 -0300" stop="20180527163000 -0300" channel="AXN FHD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Enquanto investiga novos detalhes de um antigo caso, Liz explora seus impulsos mais sombrios em terapia com a Dra. Fulton(n)</desc>
+    <credits>
+      <director>Bill Roe</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Amir Arison</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Ana Nogueira</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527163000 -0300" stop="20180527172500 -0300" channel="AXN FHD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">A equipe Five-0 descobre uma conexão entre as gangues samoanas e a máfia do continente depois que uma guerra entre gangues causa confusão durante um jogo de futebol(n)</desc>
+    <credits>
+      <director>Paul A. Edwards</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527172500 -0300" stop="20180527182000 -0300" channel="AXN FHD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam o que parece ser um roubo seguido de homicídio, mas enquanto investigam o caso eles descobrem que a vítima estava envolvida em uma estranha conspiração(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527182000 -0300" stop="20180527191000 -0300" channel="AXN FHD">
+    <title lang="pt">P.o.l.i.c.i.a.</title>
+    <desc lang="pt">A atração acompanha a rotina de algumas equipes das Polícias Militar e Civil de São Paulo, Santa Catarina e Minas Gerais. A produção mostra desde as primeiras reuniões estratégias sobre os casos até a prisão dos bandidos(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527191000 -0300" stop="20180527193500 -0300" channel="AXN FHD">
+    <title lang="pt">Sem Rastro</title>
+    <desc lang="pt">Todos os dias milhares de pessoas desaparecem no Brasil, sem deixar pistas. São histórias repletas de mistérios. Casos que se transformam em um emaranhado de perguntas, e poucas respostas(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527193500 -0300" stop="20180527202500 -0300" channel="AXN FHD">
+    <title lang="pt">P.o.l.i.c.i.a.</title>
+    <desc lang="pt">A atração acompanha a rotina de algumas equipes das Polícias Militar e Civil de São Paulo, Santa Catarina e Minas Gerais. A produção mostra desde as primeiras reuniões estratégias sobre os casos até a prisão dos bandidos(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527202500 -0300" stop="20180527205000 -0300" channel="AXN FHD">
+    <title lang="pt">Sem Rastro</title>
+    <desc lang="pt">Todos os dias milhares de pessoas desaparecem no Brasil, sem deixar pistas. São histórias repletas de mistérios. Casos que se transformam em um emaranhado de perguntas, e poucas respostas(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527205000 -0300" stop="20180527211500 -0300" channel="AXN FHD">
+    <title lang="pt">Olhar Digital</title>
+    <desc lang="pt">O Olhar digital é um programa de televisão brasileiro focado em tecnologia e novas tendências mercadológicas, como celulares, notebooks, serviços de internet, etc, além de outros assuntos como televisão digital e trend makers(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527211500 -0300" stop="20180527220000 -0300" channel="AXN FHD">
+    <title lang="pt">Scorpion</title>
+    <desc lang="pt">A equipe deve capturar ladrões que roubaram uma joia rara em exibição em um museu sobre a qual querem extrair os materiais necessários para aprimorar uma bomba nuclear(n)</desc>
+    <credits>
+      <director>Christine Moore</director>
+      <actor>Elyes Gabel</actor>
+      <actor>Katharine McPhee</actor>
+      <actor>Eddie Kaye Thomas</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527220000 -0300" stop="20180527225000 -0300" channel="AXN FHD">
+    <title lang="pt">Scorpion</title>
+    <desc lang="pt">A equipe se aventura em um grande sistema de cavernas para evitar que uma população de morcegos venha a destruir o ecossistema da América do Norte antes do Halloween(n)</desc>
+    <credits>
+      <director>Omar Madha</director>
+      <actor>Elyes Gabel</actor>
+      <actor>Katharine McPhee</actor>
+      <actor>Eddie Kaye Thomas</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+    <star-rating>
+      <value>5.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527225000 -0300" stop="20180527234000 -0300" channel="AXN FHD">
+    <title lang="pt">P.o.l.i.c.i.a.</title>
+    <desc lang="pt">A atração acompanha a rotina de algumas equipes das Polícias Militar e Civil de São Paulo, Santa Catarina e Minas Gerais. A produção mostra desde as primeiras reuniões estratégias sobre os casos até a prisão dos bandidos(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180527234000 -0300" stop="20180528000500 -0300" channel="AXN FHD">
+    <title lang="pt">Olhar Digital</title>
+    <desc lang="pt">O Olhar digital é um programa de televisão brasileiro focado em tecnologia e novas tendências mercadológicas, como celulares, notebooks, serviços de internet, etc, além de outros assuntos como televisão digital e trend makers(n)</desc>
+    <category lang="pt">Séries</category>
+    <rating system="BR">
+      <value>L</value>
+    </rating>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20180526010000 -0300" stop="20180526020000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Steve McGarrett volta para casa, a ilha de Honolulu, para enterrar seu pai, que foi assassinado por um grande criminoso(n)</desc>
+    <credits>
+      <director>Len Wiseman</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526020000 -0300" stop="20180526030000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">O assassinato brutal de um ganhador da loteria deixa Castle e Beckett com os olhos bem abertos para vigiar os suspeitos, os vizinhos irritados e invejosos da súbita mudança de vida da vítima(n)</desc>
+    <credits>
+      <director>Emile Levisetti</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Seamus Dever</actor>
+      <actor>Wilmer Calderon</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526030000 -0300" stop="20180526040000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Quando Marina Garito é encontrada morta, Stella fica convencida de que, ao contrário do aparente suicídio, ela foi assassinada(n)</desc>
+    <credits>
+      <actor>Anna Belknap</actor>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Hill Harper</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Mädchen Amick</actor>
+      <actor>Joshua Rush</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S6 E18</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180526040000 -0300" stop="20180526050000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Hawkes é chamado para testemunhar uma execução e acaba descobrindo um segredo sobre sua família. Quando está prestes a sair da penitenciária, ele vira refém de um motim(n)</desc>
+    <credits>
+      <director>Steven DePaul</director>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Eddie Cahill</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S6 E19</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180526050000 -0300" stop="20180526060000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">Um rapaz de 14 anos chamado Nicky é baleado e roubado num beco, enquanto seu irmão mais novo, Sam, de 10 anos, testemunha tudo. Durante a investigação, Flack se aproxima bastante de Sam(n)</desc>
+    <credits>
+      <director>Marshall Adams</director>
+      <actor>Gary Sinise</actor>
+      <actor>Melina Kanakaredes</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Robert Joy</actor>
+      <actor>A.J. Buckley</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Hill Harper</actor>
+      <actor>Mädchen Amick</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S6 E21</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180526060000 -0300" stop="20180526070000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526070000 -0300" stop="20180526080000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam o que parece ser um roubo seguido de homicídio, mas enquanto investigam o caso eles descobrem que a vítima estava envolvida em uma estranha conspiração(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526080000 -0300" stop="20180526090000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett devem trabalhar ao lado do Agente Fallon para impedir um evento trágico que pode afetar a cidade inteira(n)</desc>
+    <credits>
+      <director>Bill Roe</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+      <actor>Seamus Dever</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526090000 -0300" stop="20180526100000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">No episódio, um assassinato foi cometido no set de(n)</desc>
+    <credits>
+      <director>David Barrett</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Tina Majorino</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526100000 -0300" stop="20180526110000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Durante o julgamento de alto perfil de uma socialite assassinada, um jurado de repente, sai da caixa do júri: morto Castle e Beckett descobrem que o jurado foi envenenado(n)</desc>
+    <credits>
+      <director>Jeff Bleckner</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Kwame Patterson</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526110000 -0300" stop="20180526115500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Quando um especialista em terrorismo virtual é sequestrado, McGarrett e sua equipe são designados para encontrá-lo e para proteger a segurança do país(n)</desc>
+    <credits>
+      <director>Brad Turner</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526115500 -0300" stop="20180526125000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU é chamada ao Texas para investigar um assassino serial que está vitimando estudantes em férias(n)</desc>
+    <credits>
+      <director>Jason Alexander</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Brian Borello</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180526125000 -0300" stop="20180526134500 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526134500 -0300" stop="20180526144000 -0300" channel="AXN HD">
+    <title lang="pt">Scorpion</title>
+    <desc lang="pt">A equipe Scorpion deve encontrar um menino da classe de Ralph que desaparece em uma viagem de campo depois de acidentalmente ter um desentendimento com um perigoso criminoso(n)</desc>
+    <credits>
+      <director>Steven A. Adelson</director>
+      <actor>Elyes Gabel</actor>
+      <actor>Katharine McPhee</actor>
+      <actor>Eddie Kaye Thomas</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526144000 -0300" stop="20180526153500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">NCIS é um seriado de ação dramático inspirado na famosa série JAG, sobre uma equipe de agentes especiais cuja missão é investigar qualquer crime que tem provas ligadas a pessoas da Marinha, sem levar em consideração cargos e posiç(n)</desc>
+    <credits>
+      <director>Leslie Libman</director>
+      <actor>Mark Harmon</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>Emily Wickersham</actor>
+      <actor>David McCallum</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S15 E19</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180526153500 -0300" stop="20180526163000 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Red e a força-terefa tomam medidas extremas para caçar um dos aliados de Alexander Kirk, Miles McGrath, um(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Andrew Divoff</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Mozhan Marnò</actor>
+      <actor>Hisham Tawfiq</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S4 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526163000 -0300" stop="20180526172500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Quando um especialista em terrorismo virtual é sequestrado, McGarrett e sua equipe são designados para encontrá-lo e para proteger a segurança do país(n)</desc>
+    <credits>
+      <director>Brad Turner</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526172500 -0300" stop="20180526182000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180526182000 -0300" stop="20180526191500 -0300" channel="AXN HD">
+    <title lang="pt">NCIS</title>
+    <desc lang="pt">Depois do ataque terrorista, a equipe da NCIS fica chocada e tenta lidar com a repentina morte de Kate, cada um a seu modo(n)</desc>
+    <credits>
+      <director>Dennis Smith</director>
+      <actor>Mark Harmon</actor>
+      <actor>Michael Weatherly</actor>
+      <actor>Cote de Pablo</actor>
+      <actor>Pauley Perrette</actor>
+      <actor>Sean Murray</actor>
+      <actor>David McCallum</actor>
+      <actor>Sasha Alexander</actor>
+      <actor>Alan Dale</actor>
+    </credits>
+    <date>2005</date>
+    <episode-num system="onscreen">S3 E1</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180526191500 -0300" stop="20180526201000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. NY</title>
+    <desc lang="pt">A equipe vai a um projeto habitacional em Brooklyn, N.Y., para investigar o assassinato de um empresário de sucesso(n)</desc>
+    <credits>
+      <director>Deran Sarafian</director>
+      <actor>Gary Sinise</actor>
+      <actor>Sela Ward</actor>
+      <actor>Carmine Giovinazzo</actor>
+      <actor>Eddie Cahill</actor>
+      <actor>Anna Belknap</actor>
+      <actor>Hill Harper</actor>
+      <actor>A.J. Buckley</actor>
+    </credits>
+    <date>2012</date>
+    <episode-num system="onscreen">S8 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180526201000 -0300" stop="20180526210500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Miami</title>
+    <desc lang="pt">Uma moradora do subúrbio é espancada até a morte logo depois de celebrar seu 20º aniversário de casamento com uma festa em sua casa(n)</desc>
+    <credits>
+      <director>Gina Lamar</director>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Christina Chang</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Eddie Cibrian</actor>
+      <actor>Omar Benson Miller</actor>
+      <actor>Christian Clemenson</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S8 E22</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180526210500 -0300" stop="20180526220000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU é chamada ao Texas para investigar um assassino serial que está vitimando estudantes em férias(n)</desc>
+    <credits>
+      <director>Jason Alexander</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Paget Brewster</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Kirsten Vangsness</actor>
+      <actor>Thomas Gibson</actor>
+      <actor>Brian Borello</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S4 E20</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180526220000 -0300" stop="20180527000000 -0300" channel="AXN HD">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <desc lang="pt">Cataleya se tornou uma assassina cruel após testemunhar a morte de seus pais quando criança em Bogotá. Ela trabalha como assassina de aluguel, mas em seu tempo livre fica atenta, procurando pelo mafioso que matou seus pais(n)</desc>
+    <credits>
+      <director>Olivier Megaton</director>
+      <actor>Jordi Molla</actor>
+      <actor>Zoe Saldana</actor>
+      <actor>Callum Blue</actor>
+      <actor>Jesse Borrego</actor>
+      <actor>Cliff Curtis</actor>
+      <actor>Michael Vartan</actor>
+      <actor>Lennie James</actor>
+    </credits>
+    <date>2011</date>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527000000 -0300" stop="20180527010000 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Cyber</title>
+    <desc lang="pt">O time investiga a abdução de uma jovem, cujas páginas nas redes sociais continuam atualizadas. Enquanto isso, Ryan ajuda Trish McCarthy a lidar com a morte de sua irmã, que era uma antiga paciente de Ryan(n)</desc>
+    <credits>
+      <director>Eagle Egilsson</director>
+      <actor>Patricia Arquette</actor>
+      <actor>James Van Der Beek</actor>
+      <actor>Peter MacNicol</actor>
+      <actor>Hayley Kiyoko</actor>
+      <actor>Rosanna Arquette</actor>
+      <actor>Lisa Darr</actor>
+      <actor>Brett Rickaby</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180527010000 -0300" stop="20180527020000 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">Quando um especialista em terrorismo virtual é sequestrado, McGarrett e sua equipe são designados para encontrá-lo e para proteger a segurança do país(n)</desc>
+    <credits>
+      <director>Brad Turner</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527020000 -0300" stop="20180527030000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527030000 -0300" stop="20180527040000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett se veem em lados opostos de um caso quando um velho amigo dos tempos de escola de Castle (participação especial de Jason Wiles) emerge como o principal suspeito do assassinato de sua esposa(n)</desc>
+    <credits>
+      <director>John Terlesky</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527040000 -0300" stop="20180527050000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam o que parece ser um roubo seguido de homicídio, mas enquanto investigam o caso eles descobrem que a vítima estava envolvida em uma estranha conspiração(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527050000 -0300" stop="20180527060000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett devem trabalhar ao lado do Agente Fallon para impedir um evento trágico que pode afetar a cidade inteira(n)</desc>
+    <credits>
+      <director>Bill Roe</director>
+      <actor>Stana Katic</actor>
+      <actor>Nathan Fillion</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+      <actor>Seamus Dever</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E17</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527060000 -0300" stop="20180527070000 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Quando o monarca Douglas Bank é roubado, Red aproveita a oportunidade para derrubar o banco que fazia lavagem de dinheiro(n)</desc>
+    <credits>
+      <director>Paul A. Edwards</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Amir Arison</actor>
+      <actor>Amir Arison</actor>
+      <actor>Harry Lennix</actor>
+      <actor>Raquel Almazan</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527070000 -0300" stop="20180527080000 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Quando um corpo é encontrado sem um coração, Keen e Ressler unem forças com Samar Navabi para investigar a operação do Dr. Covington(n)</desc>
+    <credits>
+      <director>Karen Gaviola</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Hisham Tawfiq</actor>
+      <actor>Harry Lennix</actor>
+      <actor>Ron C. Jones</actor>
+      <actor>Mozhan Marnò</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527080000 -0300" stop="20180527090000 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Após cidadãos aparentemente não violentos se tornarem assassinos, Red sugere a Liz que um perigoso experimento social e psicológico pode estar acontecendo(n)</desc>
+    <credits>
+      <director>Michael W. Watkins</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Paul Reubens</actor>
+      <actor>Mary-Louise Parker</actor>
+      <actor>Harry Lennix</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527090000 -0300" stop="20180527100000 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Os agentes Keen, Ressler e Cooper perseguem um grupo eco-terrorista em busca de uma arma destrutiva(n)</desc>
+    <credits>
+      <director>Steven A. Adelson</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Amir Arison</actor>
+      <actor>Harry Lennix</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527100000 -0300" stop="20180527110000 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Um corpo mutilado é encontrado, o que leva Liz a consultar Red sobre o que ele sabe a respeito do mundo mortal dos caçadores de animais selvagens(n)</desc>
+    <credits>
+      <director>David Platt</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Hisham Tawfiq</actor>
+      <actor>Harry Lennix</actor>
+    </credits>
+    <date>2014</date>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527110000 -0300" stop="20180527115500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">A equipe Five-0 descobre uma conexão entre as gangues samoanas e a máfia do continente depois que uma guerra entre gangues causa confusão durante um jogo de futebol(n)</desc>
+    <credits>
+      <director>Paul A. Edwards</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527115500 -0300" stop="20180527125000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">Durante a investigação de uma série de raptos e assassinatos de crianças em Nova Jersey, a BAU conclui que o último crime pode não ser obra do suspeito por eles apreendido(n)</desc>
+    <credits>
+      <director>Karen Gaviola</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Shemar Moore</actor>
+      <actor>Paget Brewster</actor>
+      <actor>A.J. Cook</actor>
+      <actor>\tKirsten Vangsness</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>Mark Arnold</actor>
+    </credits>
+    <date>2009</date>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180527125000 -0300" stop="20180527134500 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam o que parece ser um roubo seguido de homicídio, mas enquanto investigam o caso eles descobrem que a vítima estava envolvida em uma estranha conspiração(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527134500 -0300" stop="20180527144000 -0300" channel="AXN HD">
+    <title lang="pt">Criminal Minds</title>
+    <desc lang="pt">A BAU é chamada para Oklahoma para investigar um palhaço assassino aterrorizando a pacata cidade de Guymon(n)</desc>
+    <credits>
+      <director>Matthew Gray Gubler</director>
+      <actor>Joe Mantegna</actor>
+      <actor>Matthew Gray Gubler</actor>
+      <actor>A.J. Cook</actor>
+      <actor>Daniel Henney</actor>
+      <actor>Solomon Shiv</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S13 E17</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180527144000 -0300" stop="20180527153500 -0300" channel="AXN HD">
+    <title lang="pt">C.S.I. Cyber</title>
+    <desc lang="pt">O time investiga a abdução de uma jovem, cujas páginas nas redes sociais continuam atualizadas. Enquanto isso, Ryan ajuda Trish McCarthy a lidar com a morte de sua irmã, que era uma antiga paciente de Ryan(n)</desc>
+    <credits>
+      <director>Eagle Egilsson</director>
+      <actor>Patricia Arquette</actor>
+      <actor>James Van Der Beek</actor>
+      <actor>Peter MacNicol</actor>
+      <actor>Hayley Kiyoko</actor>
+      <actor>Rosanna Arquette</actor>
+      <actor>Lisa Darr</actor>
+      <actor>Brett Rickaby</actor>
+    </credits>
+    <date>2015</date>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="BR">
+      <value>13+</value>
+    </rating>
+  </programme>
+  <programme start="20180527153500 -0300" stop="20180527163000 -0300" channel="AXN HD">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Enquanto investiga novos detalhes de um antigo caso, Liz explora seus impulsos mais sombrios em terapia com a Dra. Fulton(n)</desc>
+    <credits>
+      <director>Bill Roe</director>
+      <actor>James Spader</actor>
+      <actor>Megan Boone</actor>
+      <actor>Diego Klattenhoff</actor>
+      <actor>Amir Arison</actor>
+      <actor>Ryan Eggold</actor>
+      <actor>Ana Nogueira</actor>
+    </credits>
+    <date>2018</date>
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527163000 -0300" stop="20180527172500 -0300" channel="AXN HD">
+    <title lang="pt">Hawaii Five-0</title>
+    <desc lang="pt">A equipe Five-0 descobre uma conexão entre as gangues samoanas e a máfia do continente depois que uma guerra entre gangues causa confusão durante um jogo de futebol(n)</desc>
+    <credits>
+      <director>Paul A. Edwards</director>
+      <actor>Alex O'Loughlin</actor>
+      <actor>Scott Caan</actor>
+      <actor>Daniel Dae Kim</actor>
+    </credits>
+    <date>2010</date>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527172500 -0300" stop="20180527182000 -0300" channel="AXN HD">
+    <title lang="pt">Castle</title>
+    <desc lang="pt">Castle e Beckett investigam o que parece ser um roubo seguido de homicídio, mas enquanto investigam o caso eles descobrem que a vítima estava envolvida em uma estranha conspiração(n)</desc>
+    <credits>
+      <director>Rob Bowman</director>
+      <actor>Nathan Fillion</actor>
+      <actor>Stana Katic</actor>
+      <actor>Susan Sullivan</actor>
+      <actor>Ruben Santiago-Hudson</actor>
+      <actor>Molly C. Quinn</actor>
+      <actor>Jon Huertas</actor>
+      <actor>Tamala Jones</actor>
+    </credits>
+    <date>2011</date>
+    <episode-num system="onscreen">S3 E16</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527182000 -0300" stop="20180527191000 -0300" channel="AXN HD">
+    <title lang="pt">P.o.l.i.c.i.a</title>
+    <desc lang="pt">A atração acompanha a rotina de algumas equipes das Polícias Militar e Civil de São Paulo, Santa Catarina e Minas Gerais. A produção mostra desde as primeiras reuniões estratégias sobre os casos até a prisão dos bandidos(n)</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180527191000 -0300" stop="20180527193500 -0300" channel="AXN HD">
+    <title lang="pt">Sem Rastro: Patricia Raquena</title>
+    <desc lang="pt">Todos os dias milhares de pessoas desaparecem no Brasil, sem deixar pistas. São histórias repletas de mistérios. Casos que se transformam em um emaranhado de perguntas, e poucas respostas(n)</desc>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527193500 -0300" stop="20180527202500 -0300" channel="AXN HD">
+    <title lang="pt">P.o.l.i.c.i.a</title>
+    <desc lang="pt">A atração acompanha a rotina de algumas equipes das Polícias Militar e Civil de São Paulo, Santa Catarina e Minas Gerais. A produção mostra desde as primeiras reuniões estratégias sobre os casos até a prisão dos bandidos(n)</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180527202500 -0300" stop="20180527205000 -0300" channel="AXN HD">
+    <title lang="pt">Sem Rastro: Cristiane Reis</title>
+    <desc lang="pt">Todos os dias milhares de pessoas desaparecem no Brasil, sem deixar pistas. São histórias repletas de mistérios. Casos que se transformam em um emaranhado de perguntas, e poucas respostas(n)</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527205000 -0300" stop="20180527211500 -0300" channel="AXN HD">
+    <title lang="pt">Olhar Digital</title>
+    <desc lang="pt">O Olhar digital é um programa de televisão brasileiro focado em tecnologia e novas tendências mercadológicas, como celulares, notebooks, serviços de internet, etc, além de outros assuntos como televisão digital e trend makers(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="BR">
+      <value>0+</value>
+    </rating>
+  </programme>
+  <programme start="20180527211500 -0300" stop="20180527220000 -0300" channel="AXN HD">
+    <title lang="pt">Scorpion</title>
+    <desc lang="pt">A equipe deve capturar ladrões que roubaram uma joia rara em exibição em um museu sobre a qual querem extrair os materiais necessários para aprimorar uma bomba nuclear(n)</desc>
+    <credits>
+      <director>Christine Moore</director>
+      <actor>Elyes Gabel</actor>
+      <actor>Katharine McPhee</actor>
+      <actor>Eddie Kaye Thomas</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527220000 -0300" stop="20180527225000 -0300" channel="AXN HD">
+    <title lang="pt">Scorpion</title>
+    <desc lang="pt">A equipe se aventura em um grande sistema de cavernas para evitar que uma população de morcegos venha a destruir o ecossistema da América do Norte antes do Halloween(n)</desc>
+    <credits>
+      <director>Omar Madha</director>
+      <actor>Elyes Gabel</actor>
+      <actor>Katharine McPhee</actor>
+      <actor>Eddie Kaye Thomas</actor>
+    </credits>
+    <date>2016</date>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="BR">
+      <value>11+</value>
+    </rating>
+  </programme>
+  <programme start="20180527225000 -0300" stop="20180527234000 -0300" channel="AXN HD">
+    <title lang="pt">P.o.l.i.c.i.a</title>
+    <desc lang="pt">A atração acompanha a rotina de algumas equipes das Polícias Militar e Civil de São Paulo, Santa Catarina e Minas Gerais. A produção mostra desde as primeiras reuniões estratégias sobre os casos até a prisão dos bandidos(n)</desc>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="BR">
+      <value>9+</value>
+    </rating>
+  </programme>
+  <programme start="20180526220000 -0300" stop="20180527000000 -0300" channel="AXN">
+    <title lang="pt">Colombiana - Em Busca de Vingança</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180527000000 -0300" stop="20180527010000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Cyber</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20180527010000 -0300" stop="20180527020000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527020000 -0300" stop="20180527030000 -0300" channel="AXN">
+    <title lang="pt">Castle</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527030000 -0300" stop="20180527040000 -0300" channel="AXN">
+    <title lang="pt">Castle</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527040000 -0300" stop="20180527050000 -0300" channel="AXN">
+    <title lang="pt">Castle</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527050000 -0300" stop="20180527060000 -0300" channel="AXN">
+    <title lang="pt">Castle</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527060000 -0300" stop="20180527070000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527070000 -0300" stop="20180527080000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527080000 -0300" stop="20180527090000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527090000 -0300" stop="20180527100000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527100000 -0300" stop="20180527110000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527110000 -0300" stop="20180527115500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527115500 -0300" stop="20180527125000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20180527125000 -0300" stop="20180527134500 -0300" channel="AXN">
+    <title lang="pt">Castle</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527134500 -0300" stop="20180527144000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20180527144000 -0300" stop="20180527153500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Cyber</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20180527153500 -0300" stop="20180527163000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527163000 -0300" stop="20180527172500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527172500 -0300" stop="20180527182000 -0300" channel="AXN">
+    <title lang="pt">Castle</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20180527182000 -0300" stop="20180527191000 -0300" channel="AXN">
+    <title lang="pt">P.o.l.i.c.i.a.</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180527191000 -0300" stop="20180527193500 -0300" channel="AXN">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20180527193500 -0300" stop="20180527202500 -0300" channel="AXN">
+    <title lang="pt">P.o.l.i.c.i.a.</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180527202500 -0300" stop="20180527205000 -0300" channel="AXN">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20180527205000 -0300" stop="20180527211500 -0300" channel="AXN">
+    <title lang="pt">Olhar Digital</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180527211500 -0300" stop="20180527220000 -0300" channel="AXN">
+    <title lang="pt">Scorpion</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180527220000 -0300" stop="20180527225000 -0300" channel="AXN">
+    <title lang="pt">Scorpion</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180527225000 -0300" stop="20180527234000 -0300" channel="AXN">
+    <title lang="pt">P.o.l.i.c.i.a.</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180527234000 -0300" stop="20180528000500 -0300" channel="AXN">
+    <title lang="pt">Olhar Digital</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+</tv>
